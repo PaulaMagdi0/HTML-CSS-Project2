@@ -52,6 +52,7 @@ ul li{
 
 .section {
     max-width: 1320px;
+    margin: auto;
     margin-top: 5rem;
 }
 
